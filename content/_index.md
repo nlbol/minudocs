@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Documentación
 toc: false
 ---
 
-This is the landing page.
+Bienvenid@ a la documentación de Minunux!.
 
 ## Explore
 

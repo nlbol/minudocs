@@ -1,7 +1,7 @@
 ---
-title: Leaf Page
+title: Balena Etcher
 type: docs
-prev: docs/folder/
+weight: 2
 ---
 
 This page is under a folder.
