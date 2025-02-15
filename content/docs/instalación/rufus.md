@@ -1,6 +1,8 @@
 ---
 title: Rufus (Windows)
 type: docs
+prev:
+next: booteable
 ---
 
 

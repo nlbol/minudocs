@@ -1,7 +1,7 @@
 ---
 title: Booteable
 type: docs
-prev: docs/instalación/
+prev: docs/instalación/rufus
 next: docs/booteable/ventoy
 weight: 3
 sidebar:
