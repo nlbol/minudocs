@@ -1,6 +1,8 @@
 ---
 title: Instalación
 type: docs
+prev: docs/introducción/
+next: docs/instalación/clasico.md
 weight: 2
 sidebar:
   open: true

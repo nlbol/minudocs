@@ -1,6 +1,8 @@
 ---
 title: Clasico
 type: docs
+prev: docs/instalación
+next:
 ---
 
 

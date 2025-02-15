@@ -2,6 +2,7 @@
 title: Empaquetador
 type: docs
 weight: 3
+next: preguntas-frecuentes
 ---
 
 La siguiente guía es para explicar como empaquetar un programa de manera simple.

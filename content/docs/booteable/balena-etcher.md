@@ -1,6 +1,8 @@
 ---
 title: Balena Etcher
 type: docs
+prev: 
+next: 
 weight: 2
 ---
 

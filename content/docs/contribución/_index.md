@@ -2,6 +2,8 @@
 title: Contribución
 type: docs
 weigth: 5
+prev: docs/módulos/instalación
+next: docs/contribución/
 next: testing
 sidebar:
   open: true

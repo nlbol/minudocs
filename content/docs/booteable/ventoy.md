@@ -1,6 +1,8 @@
 ---
 title: Ventoy
 type: docs
+prev: docs/booteable/
+next:
 weight: 1
 ---
 Esta sección es para explicar como tener un dispositivo (pendrive) booteable para poder iniciar MiniOS en vivo (No instalado)

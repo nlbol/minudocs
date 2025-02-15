@@ -1,6 +1,8 @@
 ---
 title: EtchDroid (Android)
 type: docs
+prev:
+next: docs/módulos/
 weight: 3
 ---
 

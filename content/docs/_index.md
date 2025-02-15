@@ -1,6 +1,7 @@
 ---
 title: Documentación
-next: introducción
+next: docs/introducción
+
 ---
 
 	

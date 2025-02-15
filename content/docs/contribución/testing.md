@@ -1,6 +1,8 @@
 ---
 title: Testing
 type: docs
+prev: docs/contribución/
+next: 
 weight: 1
 ---
 

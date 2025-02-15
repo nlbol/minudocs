@@ -1,7 +1,8 @@
 ---
 title: template
 type: docs
-prev: docs/folder/
+prev:
+next: docs/booteable/
 ---
 
 #This page is under a folder.

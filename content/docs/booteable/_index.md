@@ -1,6 +1,8 @@
 ---
 title: Booteable
 type: docs
+prev: docs/instalación/
+next: docs/booteable/ventoy
 weight: 3
 sidebar:
   open: true

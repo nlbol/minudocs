@@ -1,5 +1,6 @@
 ---
 title: Introducción
+next: docs/instalación
 type: docs
 weight: 1
 sidebar:
