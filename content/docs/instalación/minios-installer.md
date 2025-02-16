@@ -1,6 +1,8 @@
 ---
 title: MiniOS Installer
 type: docs
+weight: 2
+
 ---
 
 

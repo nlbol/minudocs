@@ -2,7 +2,9 @@
 title: Rufus (Windows)
 type: docs
 prev:
-next: booteable
+next: 
+weight: 4
+
 ---
 
 

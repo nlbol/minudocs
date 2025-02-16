@@ -1,8 +1,10 @@
 ---
-title: Clasico
+title: Clásico
 type: docs
 prev: docs/instalación
 next:
+weight: 1
+
 ---
 
 

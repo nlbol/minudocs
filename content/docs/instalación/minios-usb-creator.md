@@ -1,6 +1,8 @@
 ---
 title: MiniOS USB Creator
 type: docs
+weight: 3
+
 ---
 
 

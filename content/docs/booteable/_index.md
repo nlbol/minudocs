@@ -12,5 +12,4 @@ Esta sección tiene como objetivo mostrar una lista de herramientas que permitan
 
 
 * [Ventoy](ventoy)
-* [Balena Etcher](balena-etcher) 
 * [EtchDroid](etchdroid)
