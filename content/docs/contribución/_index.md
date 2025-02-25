@@ -12,6 +12,6 @@ sidebar:
 Esta sección es para describir las opciones de contribución:
 
 * [Testing](testing)
-* [Código](código)
+* [Código](codigo)
 * [Empaquetador](empaquetador)
 * [Metapaquetes](metapaquetes)
