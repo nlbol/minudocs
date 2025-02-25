@@ -8,6 +8,11 @@ next: preguntas-frecuentes
 ## ¿Que es un metapaquete?
 Un metapaquete es un paquete que no contiene archivos ejecutables o configuraciones, sino que simplemente depende de otros paquetes. Esto permite instalar un conjunto de paquetes de manera sencilla con un solo comando.
 
+En esta guía se va a describir 2 metodos para crear metapaquetes:  
+
+- [Creación del metapaquete con equivs-control](#creación-del-metapaquete-con-equivs-control)
+- [Creación del metapaquete manualmente sin equivs](#creación-de-un-metapaquete-manualmente-sin-equivs)
+
 ## Creación del metapaquete con equivs-control
 
 ### como instalar equivs
