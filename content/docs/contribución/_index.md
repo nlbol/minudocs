@@ -14,3 +14,4 @@ Esta sección es para describir las opciones de contribución:
 * [Testing](testing)
 * [Código](código)
 * [Empaquetador](empaquetador)
+* [Metapaquetes](metapaquetes)
