@@ -5,9 +5,7 @@ next: docs/introducción
 ---
 
 	
-## INDICE!
-
-
+## INDICE
 
 - [Introducción](introducción)
 - [Instalación](instalación)

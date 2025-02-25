@@ -1,7 +1,7 @@
 ---
 title: Booteable
 type: docs
-prev: docs/instalación/rufus
+prev: docs/instalación/balena-etcher
 next: docs/booteable/ventoy
 weight: 3
 sidebar:
